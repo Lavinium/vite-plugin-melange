@@ -1,6 +1,6 @@
 {
   "name": "@lavinium/vite-plugin-melange",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple vite plugin for building and hot reloading Reason files",
   "main": "src/index.js",
   "type": "module",
