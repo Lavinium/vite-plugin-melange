@@ -30,3 +30,12 @@ Import the Reason file you wish to use in your main application file.
 // app.js
 import 'app/main.re'
 ```
+
+example dune file
+```dune
+(melange.emit
+    ;; ...
+    (target output)
+    ;; ...
+)
+```
