@@ -32,9 +32,11 @@ import 'app/main.re'
 ```
 
 example dune file
-```dune
+
+```lisp
+;; src/dune
+
 (melange.emit
-    ;; ...
     (target output)
     ;; ...
 )
